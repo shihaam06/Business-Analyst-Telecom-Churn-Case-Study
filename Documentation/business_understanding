@@ -1,1 +1,32 @@
+#Business Problem
+The company has experienced a steady increase in customer churn over the past six months, leading to reduced recurring revenue and increased customer acquisition costs. Management needs to identify the key drivers of churn and implement strategies to improve customer retention.
+#Objective
+Identify the primary factors contributing to customer churn and provide data-driven solutions to reduce churn while improving customer retention and revenue
 
+#Stakholders
+Founders 
+Investors
+Marketing team
+Employees
+
+#KPI
+Churn rate
+LTV
+CAC
+Revenue
+profit
+CRR
+ARPU
+
+#questions
+which segment mainly affected?
+is it the month that affects?
+is there a pattern, like evry year around this time it happens?
+are they going to some other company
+is there complaints filed by them recently
+
+#Assumptions
+1.Pricing issues
+2.No proper customer support services
+3.Better offer elsewhere
+4.If provided better long term package, customer will stay
