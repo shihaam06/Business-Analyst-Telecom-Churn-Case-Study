@@ -1,1 +1,13 @@
+# Dataset Overview
 
+Dataset Name: Teleco_Cusomer_Churn
+
+Source:Kaggle
+
+Number of Rows:7043
+
+Number of Columns:21
+
+Business Domain:SaaS
+
+Target Variable:Churn
